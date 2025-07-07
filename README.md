@@ -19,7 +19,7 @@ These projects range from simple logic-based programs to applied scripts involvi
 | `coin_converter`             | Converts cents into quarters, dimes, nickels, and pennies. Focuses on math operations, division, and modulus. |
 | `file_based_projects`        | Includes programs that read from/write to `.txt` files — such as storing movie lists, analyzing random numbers, or amino acid mappings. |
 | `math_practice_game`         | A basic interactive math quiz game that uses random numbers and scoring logic. Useful for control flow and repetition. |
-
+| `cancer_classification`      | Used scikit-learn and  Support Vector Machine (SVM) to classify breast cancer tumors as benign or malignant based on real-world datasets.|
 ---
 
 ## 💡 Skills Demonstrated
@@ -30,7 +30,10 @@ These projects range from simple logic-based programs to applied scripts involvi
 - Arithmetic and data formatting
 - Input validation and user interaction
 - Problem decomposition and project structuring
-
+- Supervised machine learning (SVM basics)
+- skit-learn library fundametals
+- Data exploration with .data and .target structures
+- Model evalutation using accuracy score
 ---
 
 ## 🧠 Why This Matters
