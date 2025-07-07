@@ -20,6 +20,7 @@ These projects range from simple logic-based programs to applied scripts involvi
 | `file_based_projects`        | Includes programs that read from/write to `.txt` files — such as storing movie lists, analyzing random numbers, or amino acid mappings. |
 | `math_practice_game`         | A basic interactive math quiz game that uses random numbers and scoring logic. Useful for control flow and repetition. |
 | `cancer_classification`      | Used scikit-learn and  Support Vector Machine (SVM) to classify breast cancer tumors as benign or malignant based on real-world datasets.|
+| `pandas_basic`               | Explored foundational data wrangling using pandas, including DataFrame creation, filtering, and basic analysis.|
 ---
 
 ## 💡 Skills Demonstrated
@@ -30,6 +31,7 @@ These projects range from simple logic-based programs to applied scripts involvi
 - Arithmetic and data formatting
 - Input validation and user interaction
 - Problem decomposition and project structuring
+- Basic data exploration with pandas
 - Supervised machine learning (SVM basics)
 - skit-learn library fundametals
 - Data exploration with .data and .target structures
